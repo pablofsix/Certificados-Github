@@ -2,7 +2,6 @@ body {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    /* background-color: #000; */
     position: relative;
     min-height: 100vh;
 }
@@ -42,7 +41,7 @@ footer {
     width: 100%;
     position: fixed;
     bottom: 0;
-    /* left: 0; */
+    left: 0; /* Agrega esta línea para fijar el pie de página a la izquierda */
     margin: 0;
     padding: 0;
 }
@@ -56,12 +55,5 @@ footer a {
 .top-right {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 16px;
-    /* position: absolute;
-    top: 10px;
-    right: 10px;
-    display: grid;
-    flex-direction: column; */
     align-items: left;
 }
-
-
