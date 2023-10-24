@@ -64,11 +64,4 @@ footer a {
     align-items: left;
 }
 
-/* Media query para centrar el iframe en dispositivos móviles */
-@media (max-width: 480px) {
-    iframe {
-        top: 0;
-        bottom: 0;
-        margin: auto; /* Centra horizontalmente en dispositivos móviles */
-    }
-}
+
