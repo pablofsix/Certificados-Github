@@ -65,7 +65,7 @@ footer a {
 }
 
 /* Media query para centrar el iframe en dispositivos móviles */
-@media (max-width: 768px) {
+@media (max-width: 480px) {
     iframe {
         top: 0;
         bottom: 0;
