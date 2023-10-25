@@ -1,4 +1,4 @@
-# Certificado para Colgar en Linkedin
+# Certificado para Colgar en LinkedIn
 Es un pequeño front para poder colocar un certificado en PDF dentro de los certificados de LinkedIn.
 ## Pasos
 1. Cambiar el archivo "Certificate.pdf"
